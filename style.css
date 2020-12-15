@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    font-size: 2rem;
+}
+
+#randomValue, #cinqieme{
+    margin-top: 3rem;
+    padding: 5rem;
+    border: 3px solid black;
+    width: 35%;
+}
+
+#divRandom, #divAllEllement{
+    padding: 5rem;
+    border: 3px solid black;
+    width: 35%;
+}
+
+#random, #allElement{
+    margin-top: 3rem;
+}
+
+.placeholder{
+    color: #999b9a;
+}
+
+#deleteAll{
+    background-color: red;
+    font-size: 5rem;
+}
